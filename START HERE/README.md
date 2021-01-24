@@ -118,11 +118,11 @@ Here are a few tags that you'll come across frequently:
 
 (Optional) More HTML readings:
 
-http://www.htmlgoodies.com/primers/html/article.php/3478131/
-http://www.w3schools.com/html/html_intro.asp/
-https://www.codecademy.com/learn/learn-html/
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/
+	http://www.htmlgoodies.com/primers/html/article.php/3478131/ 
+	http://www.w3schools.com/html/html_intro.asp/
+	https://www.codecademy.com/learn/learn-html/
+	https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/
 
 
 
@@ -180,9 +180,9 @@ Classes (along with IDs) offer us a method to style specific or multiple HTML el
 
 (Optional) CSS Readings:
 
-(http://www.w3schools.com/css/css_intro.asp/)
-(https://www.youtube.com/watch?v=dAUncsVxdvo/)
-(https://www.codeschool.com/courses/css-cross-country/)
+	http://www.w3schools.com/css/css_intro.asp/
+	https://www.youtube.com/watch?v=dAUncsVxdvo/
+	https://www.codeschool.com/courses/css-cross-country/
 
 
 
@@ -237,9 +237,9 @@ Again, this is just a basic implementation of Javascript to get you prepared for
 
 (Optional) Javascript readings:  
 
-http://www.w3schools.com/js/js_intro.asp/
-https://www.codecademy.com/learn/javascript/
-https://www.codeschool.com/learn/javascript/
+	http://www.w3schools.com/js/js_intro.asp/
+	https://www.codecademy.com/learn/javascript/
+	https://www.codeschool.com/learn/javascript/
 
 ## The Rest
 
