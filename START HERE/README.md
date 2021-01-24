@@ -1,4 +1,4 @@
-Follow the instructions below to complete the installation process for all of the required tools.
+# Follow the instructions below to complete the installation process for all of the required tools.
 
 
 ## Git Bash and Terminal 
@@ -22,8 +22,6 @@ https://youtu.be/5I1rlq7qkps/
 2. Open and run the installer file.
 	
 3. Once installed, open VS Code and press alt+shift+p (Windows) or cmd+shift+p (Mac). Then press enter. This will allow you to use the "code" command in Git Bash or Terminal to open the contents of the current directory in VS Code. Simply navigate to the intended directory and type " code . ". 
-
-...
 
 ## Hello, HTML
 
@@ -128,8 +126,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/
 
 
 
-...
-
 
 ## Intro to CSS (Cascading Style Sheets)
 
@@ -188,7 +184,7 @@ Classes (along with IDs) offer us a method to style specific or multiple HTML el
 (https://www.youtube.com/watch?v=dAUncsVxdvo/)
 (https://www.codeschool.com/courses/css-cross-country/)
 
-...
+
 
 ## JavaScript 
 
