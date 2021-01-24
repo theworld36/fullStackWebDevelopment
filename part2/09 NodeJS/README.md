@@ -108,5 +108,4 @@ Create a command-line application that uses input from a user to dynamically gen
 
 * [InquirerJS](https://www.npmjs.com/package/inquirer/v/0.2.3)
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+

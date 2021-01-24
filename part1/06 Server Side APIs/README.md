@@ -43,5 +43,4 @@ Developers are often tasked with retrieving data from another application's API 
 * [MDN: XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 * [jQuery](https://api.jquery.com/)
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+

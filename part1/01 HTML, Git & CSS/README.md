@@ -76,5 +76,4 @@ Take the provided codebase and refactor it to make it accessible. Don't forget t
 * [Dev Docs](https://devdocs.io/)
 
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
