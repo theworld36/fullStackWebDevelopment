@@ -17,11 +17,11 @@ https://youtu.be/5I1rlq7qkps/
 
 ## VS Code
 
-1. Go to the setup page on the VS Code website. 
+1. Go to the setup page on the VS Code website: https://code.visualstudio.com/download. 
 
 2. Open and run the installer file.
 	
-3. Open VS Code and press alt+shift+p (Windows) or cmd+shift+p (Mac) and press enter. This will allow you to use the code command in Git Bash or Terminal to open the contents of the current directory in VS Code. Simply navigate to the intended directory and type " code . ". 
+3. Once installed, open VS Code and press alt+shift+p (Windows) or cmd+shift+p (Mac). Then press enter. This will allow you to use the "code" command in Git Bash or Terminal to open the contents of the current directory in VS Code. Simply navigate to the intended directory and type " code . ". 
 
 ...
 
@@ -42,15 +42,15 @@ The best way to learn coding concepts is to actually code. So let's roll up our 
 
 1. Open Git Bash/Terminal.
 
-2. Create a new directory: firstHtml
+2. Create a new directory with: mkdir firstHtml
 
-3. Navigate into firstHtml and touch in file: index.html
+3. Navigate into firstHtml (cd firstHtml) and touch in file with: touch index.html
 
-4. Now, enter: code . 
+4. Now, enter: code .  (and enter)
 
 This opens index.html in VS Code Editor.
 
-5. Copy and paste the below code directly into your editor.
+5. Copy and paste the below code directly into the editor.
 
         <!DOCTYPE html>
         <html lang="en">
@@ -91,8 +91,9 @@ This opens index.html in VS Code Editor.
         </body>
         </html>
 
+6. Press ctrl + s to save your project.
 
-6. Press ctrl + b to start your program.
+7. Press ctrl + b to start your program.
 
 Rejoice! You just created your first HTML file.
 
