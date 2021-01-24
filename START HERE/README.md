@@ -208,13 +208,13 @@ While the full power of JavaScript is beyond the scope of this prework, let's ge
 
 3. Enter VS Code with code .
 
-4. Copy and paste the following code into the <body> of your index.html file:
+4. Copy and paste the following code into the body of your index.html file:
 
         <div id="box" style="height:150px; width:150px; background-color:orange; margin:25px"></div> 
 
 This will create an object "box" with dimensions, color, etc..
 
-5. Next copy and paste the following code after the <div> object to create button objects that can be acted upon by clicking:
+5. Next copy and paste the following code after the div object to create button objects that can be acted upon by clicking:
 
         <button id="button1">Shrink</button>
         <button id="button2">Grow</button>
