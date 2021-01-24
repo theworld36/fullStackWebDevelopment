@@ -13,3 +13,5 @@ About 60% of all web developers working today are self taught so these opportuni
 Either way, the resource has its home here and you are free to use it to your own needs.
 
 ## Thanks!
+
+** This info is for purely educational purposes **
