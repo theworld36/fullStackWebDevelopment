@@ -24,7 +24,7 @@ db
 db.places.insert({"continent": "Africa", "country":"Morocco", "majorcities": ["Casablanca", "Fez", "Marrakech"]})
 ```
 
-* As a class, come up with 3-5 more countries and insert them into the db using the same syntax as above.
+* Come up with 3-5 more countries and insert them into the db using the same syntax as above.
 
 * Observe where the data was entered in the MongoDB instance (in mongod).
 
