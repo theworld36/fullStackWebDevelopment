@@ -1,6 +1,6 @@
 # Create Repository
 
-In this activity we will create a group project repo and add group members as collaborators.
+In this activity we create a group project repo and add group members as collaborators.
 
 ## Instructions
 
@@ -32,15 +32,4 @@ In this activity we will create a group project repo and add group members as co
 
 * Upon creation of your groups repository, we would like for you and your group to then create a Heroku application and connect your GitHub Repository for automatic deployment.
 
-  * We have created a written guide and video guide on how you can link your GitHub Repo to your Heroku Application for continuous deployment.
-
-    [Connect Repo with Heroku Video](https://youtu.be/GgNcs9zlFSA?list=PLOFmg4xbN_TPrB6w4rThsFanVxJI_SfER)
-
-
-* Once connection is complete, link your Heroku Applications live link to your TAs.
-
-### Hints
-
-* Make sure each invited group member checks their email and accepts the invitation.
-
-* Ask an instructor or TA if you get stuck!
+  
