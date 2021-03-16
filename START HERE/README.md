@@ -91,7 +91,7 @@ This opens index.html in VS Code Editor.
 
 6. Press ctrl + s to save your project.
 
-7. Press ctrl + b to start your program.
+7. Press option + b to start your program.
 
 Rejoice! You just created your first HTML file.
 
@@ -180,7 +180,7 @@ Classes (along with IDs) offer us a method to style specific or multiple HTML el
 
   		.bamboo {color: green;}
 
-7. Press ctrl + b to start the program and notice the differences. This is just a basic implementation to help understand the structure of CSS as it will be fleshed out in the future.
+7. Run the program and notice the differences. This is just a basic implementation to help understand the structure of CSS as it will be fleshed out in the future.
 
 (Optional) CSS Readings:
 
@@ -251,4 +251,4 @@ https://www.codeschool.com/learn/javascript/
 
 ## The Rest
 
-In each parte you can find example programs with instuctutions for various web development tools. 
+In each part you can find example programs with instructutions for various web development tools. 
